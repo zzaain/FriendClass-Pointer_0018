@@ -2,7 +2,9 @@
 #include <cmath>
 using namespace std;
 
+class BelahKetupat;
+
 int main () 
 {
-    
+
 }
