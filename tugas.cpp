@@ -69,5 +69,9 @@ cout << "Keliling Belah Ketupat : " << kelilingBelah << endl;
 
 int main () 
 {
+    //Lengkapi disini
+LayangLayang ObjectLayang;
+BelahKetupat ObjectBelah;
+
 
 }
