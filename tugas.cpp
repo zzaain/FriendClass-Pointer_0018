@@ -35,6 +35,17 @@ private:
 //Lengkapi disini
 double d1, d2;
 double sisi;
+
+public:
+void inputData() {
+//Lengkapi disini
+cout << "\nInput Belah Ketupat\n";
+cout << "Diagonal 1: "; cin >> d1;
+cout << "Diagonal 2: "; cin >> d2;
+cout << "Sisi: "; cin >> sisi;
+}
+
+
 };
 
 int main () 
