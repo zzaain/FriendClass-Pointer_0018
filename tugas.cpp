@@ -10,13 +10,18 @@ private:
 double d1, d2;
 double sisi1, sisi2;
 
-public:
+ public:
 void inputData() {
 cout << "Input Layang-Layang\n";
 cout << "Diagonal 1: "; cin >> d1;
 cout << "Diagonal 2: "; cin >> d2;
 cout << "Sisi 1: "; cin >> sisi1;
-cout 
+cout << "Sisi 2: "; cin >> sisi2;
+}
+
+double hitungLuas() {  
+    return 0.5 * d1 * d2;  
+}  
 
 };
 
