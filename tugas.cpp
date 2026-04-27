@@ -30,6 +30,13 @@ friend void tampilkanKeliling(LayangLayang, BelahKetupat);
 };
 
 
+class BelahKetupat {
+private:
+//Lengkapi disini
+double d1, d2;
+double sisi;
+};
+
 int main () 
 {
 
