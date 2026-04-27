@@ -23,6 +23,10 @@ double hitungLuas() {
     return 0.5 * d1 * d2;  
 }  
 
+//Lengkapi disini  
+friend void tampilkanKeliling(LayangLayang, BelahKetupat);
+
+
 };
 
 
